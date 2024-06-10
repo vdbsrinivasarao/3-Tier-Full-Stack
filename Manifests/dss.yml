@@ -30,7 +30,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: vdbsrao/campa:latest
+          image: vdbsrao/campa1:latest
           ports:
             - containerPort: 3000
           env:
